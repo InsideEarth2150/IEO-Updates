@@ -1,6 +1,6 @@
 ![Logo](logo.png)
 
-Updates developed by InsideEarth Operations for The Moon Project and Lost Souls (Earth 2150 Expansions). 
+Updates developed by InsideEarth Operations for Easrth 2150: Escape from the Blue Planet, The Moon Project and Lost Souls. 
 
 <img alt="Issues: Open" src="https://img.shields.io/github/issues/InsideEarth2150/IEO-Updates"/> <img alt="Issues: Closed" src="https://img.shields.io/github/issues-closed/InsideEarth2150/IEO-Updates"/>
 
