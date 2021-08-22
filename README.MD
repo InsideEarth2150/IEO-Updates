@@ -1,6 +1,4 @@
-# IEO Updates
-
-[Logo](logo.png)
+![Logo](logo.png)
 
 Updates developed by InsideEarth Operations for The Moon Project and Lost Souls (Earth 2150 Expansions). 
 
