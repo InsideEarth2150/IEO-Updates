@@ -11,7 +11,7 @@ Updates developed by InsideEarth Operations for The Moon Project and Lost Souls 
 
 ## Reporting bugs, improvements, requesting features, etc. ##
 
-You can create new issues or feature requests here or join the IE community on [Discord][DiscordLink] for further details.
+You can create new issues or feature requests [here](https://github.com/InsideEarth2150/IEO-Updates/issues/new/choose) or join the IE community on [Discord][DiscordLink] for further details.
 
 ## Links
 * InsideEARTH Discord: [discord.gg/yxtzdUZ](https://discord.gg/yxtzdUZ)
